@@ -10,7 +10,7 @@ Este proyecto es una introducción a Bootstrap y utiliza la librería Bootstrap 
 
 # CAPTURAS DE PANTALLA:
 
-![image](bootstrap_logo.svg)
+![image](BOOTSTRAP.jpg)
 
 ## Uso de Bootstrap
 
